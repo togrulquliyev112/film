@@ -1,0 +1,34 @@
+.formlar{
+    margin:20px ;
+    display: flex;
+
+}
+
+
+.form1{
+    width: 400px;
+    margin-right: 340px;
+    position:relative;
+    left: 200px;
+}
+
+.form1 input{
+    margin-top: 5px;
+    width: 300px;
+    font-size: 14px;
+    padding: 5px 10px;
+    border: 1px solid rgba(0,8,7,.5);
+    margin-right:10px ;
+    border-radius: 5px;
+}
+
+.form1 button{
+    font-size: 17px;
+    border: none;
+    padding: 5px 10px;
+    border-radius: 5px;
+    color: #fff;
+    background-color:  #d3d3d3;
+    cursor: pointer;
+}
+
